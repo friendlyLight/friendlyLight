@@ -1,4 +1,4 @@
-Hi I am friendlyLight, a network engineeering student. 
+Hi I am friendlyLight, a network engineering student. 
 This GitHub repo will be mainly be recording my journey
 to become a network engineering and also show case my 
 networking skills up to the CCNA standard. 
