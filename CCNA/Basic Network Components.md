@@ -1,6 +1,6 @@
 Knowing your network components 
  
-![An image network topology](CCNA/Screenshots/basic_1.png)
+![An image network topology](Screenshots/basic_1.png)
 
 Ok first of all it is very important that we all understand the very basic 
 network components that exists in a network. Below are the components that exists in the diagram above: 
